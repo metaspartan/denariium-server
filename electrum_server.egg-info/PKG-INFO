@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: electrum-server
+Version: 1.0
+Summary: Bitcoin Electrum Server
+Home-page: https://github.com/spesmilo/electrum-server/
+Author: Thomas Voegtlin
+Author-email: thomasv@electrum.org
+License: MIT Licence
+Description: Server for the Electrum Lightweight Bitcoin Wallet
+Platform: UNKNOWN
