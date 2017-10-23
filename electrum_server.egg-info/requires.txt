@@ -1,4 +1,0 @@
-plyvel
-tribus_hash
-jsonrpclib
-irc >= 11, <=14.0
